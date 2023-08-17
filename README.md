@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <a href="https://github.com/saiteja-madha"><img src="./docs/.gitbook/assets/strange.png" height="200" alt="Discord.js v14 Bot"></a>
+  <a href="https://github.com/thatmarcboi"><img src="https://i.ibb.co/5RQcb62/msw2.png" height="200" alt="Discord.js v14 Bot"></a>
   <br>
   Discord.js v14 Bot
   <br>
@@ -26,10 +26,9 @@
 
 ## 🔗 Resource Links
 
-- 🤖 Demo Bot: [Invite Here](https://discord.com/oauth2/authorize?client_id=1013236808353599488&permissions=397602323830&scope=bot%20applications.commands)
-- 🤝 Support Server: [Join Here](https://discord.gg/2gPy75zgbW)
-- 📂 Documentation URL: [Visit Here](https://docs.strangebot.xyz)
-- 🐳 Docker Image: [Hub](https://hub.docker.com/r/saitejamadha/discord-js-bot)
+- 🤖 Demo Bot: [Invite Here](https://discord.com/oauth2/authorize?client_id=1098876907371626577&permissitons=397602323830&scope=bot%20applications.commands)
+- 🤝 Support Server: [Join Here]([https://discord.gg/2gPy75zgbW](https://discord.gg/mCXxgK6SgP))
+- 📂 Documentation URL: [Visit Here](https://ixcy.gitbook.io/ms-w/)
 
 ## 📦 Prerequisites
 
@@ -42,8 +41,8 @@
 - Open the terminal and run the following commands
 
 ```
-git clone https://github.com/saiteja-madha/discord-js-bot.git
-cd discord-js-bot
+git clone https://github.com/thatmarcboi/MS-W-2
+cd MS-W-2
 npm install
 ```
 
