@@ -27,7 +27,7 @@
 ## 🔗 Resource Links
 
 - 🤖 Demo Bot: [Invite Here](https://discord.com/oauth2/authorize?client_id=1098876907371626577&permissitons=397602323830&scope=bot%20applications.commands)
-- 🤝 Support Server: [Join Here]([https://discord.gg/2gPy75zgbW](https://discord.gg/mCXxgK6SgP))
+- 🤝 Support Server: [Join Here](https://discord.gg/2gPy75zgbW)
 - 📂 Documentation URL: [Visit Here](https://ixcy.gitbook.io/ms-w/)
 
 ## 📦 Prerequisites
