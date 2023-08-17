@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <a href="https://github.com/thatmarcboi"><img src="https://i.ibb.co/5RQcb62/msw2.png" height="200" alt="Discord.js v14 Bot"></a>
+  <a href="https://github.com/thatmarcboi"><img src="https://i.ibb.co/5RQcb62/msw2.png" height="200" alt="MS-W 2"></a>
   <br>
   Discord.js v14 Bot
   <br>
